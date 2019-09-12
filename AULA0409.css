@@ -1,0 +1,15 @@
+h1.titulo1{
+   color: rgb(114, 89, 138);
+}
+.nome{
+    font-size: 30px;
+    color:rgb(65, 114, 65);
+}
+
+body {
+    background-color: antiquewhite;
+}
+h1 {
+    background-color: rgb(172, 87, 144) 
+}
+  
